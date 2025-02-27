@@ -1,6 +1,6 @@
-INET 3101 - Lab 1.5
+# INET 3101 - Lab 1.5
 
-Dynamic Memory Allocation Program
+## Dynamic Memory Allocation Program
 
 Overview
 - This program lets users enter numbers dynamically. It starts with a set memory size and grows as needed using realloc().
